@@ -1,1 +1,6 @@
 venv/
+*.db
+*.rdb
+*.sqlite3
+*.pyc
+.DS_Store
