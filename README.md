@@ -27,5 +27,5 @@ Leverage Large Language Models (LLMs) to automate incident diagnosis data collec
 - Backend: Django + Python (Multiple APIs support the MVC architecture and Ideal for creating scalable REST APIs)
 - Database: AWS SQL (Easy integration to the AWS ecosystem)
 - Cloud Server: AWS EC2 (Easy integration to the AWS ecosystem)
-- LLM model: ChatGPT-4o (powerful, stable)
+- LLM model: gpt-4o-mini (cost-efficient, fine-tuning capable with conversation example)
 - Test: Postman*(Provides an intuitive ui and supports collaboration by allowing teams to share collections, environments, and tests)
