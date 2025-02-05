@@ -29,3 +29,4 @@ Leverage Large Language Models (LLMs) to automate incident diagnosis data collec
 - Cloud Server: AWS EC2 (Easy integration to the AWS ecosystem)
 - LLM model: gpt-4o-mini (cost-efficient, fine-tuning capable with conversation example)
 - Test: Postman*(Provides an intuitive ui and supports collaboration by allowing teams to share collections, environments, and tests)
+- API documentation: apifox(free)
